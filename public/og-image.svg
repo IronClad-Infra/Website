@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+
+  <rect x="80" y="80" width="64" height="64" stroke="#ffffff" stroke-width="3" fill="none"/>
+  <rect x="96" y="96" width="32" height="32" stroke="#ffffff" stroke-width="3" fill="none"/>
+  <rect x="108" y="108" width="8" height="8" fill="#ffffff"/>
+
+  <text x="170" y="110" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="600" letter-spacing="-0.5">IRONCLAD</text>
+  <text x="170" y="140" fill="#cccccc" font-family="system-ui, -apple-system, sans-serif" font-size="16" letter-spacing="1">INFRASTRUCTURE</text>
+
+  <text x="80" y="260" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="600" letter-spacing="-1">
+    <tspan x="80" dy="0">The Infrastructure Behind</tspan>
+    <tspan x="80" dy="70">Secure AI &amp; Automation</tspan>
+  </text>
+
+  <text x="80" y="460" fill="#9ca3af" font-family="system-ui, -apple-system, sans-serif" font-size="22" letter-spacing="-0.5">
+    <tspan x="80" dy="0">Secure cloud infrastructure, security architecture, and AI-assisted</tspan>
+    <tspan x="80" dy="32">automation for agencies and mid-market businesses.</tspan>
+  </text>
+
+  <line x1="80" y1="550" x2="200" y2="550" stroke="#3b82f6" stroke-width="2"/>
+</svg>
